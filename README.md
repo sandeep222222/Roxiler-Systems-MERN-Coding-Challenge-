@@ -1,6 +1,8 @@
 # Roxiler Systems MERN Coding Challenge 
  
 Backend Task
+
+
 Data Source
 THIRD PARTY API URL : https://s3.amazonaws.com/roxiler.com/product_transaction.json
 REQUEST METHOD : GET
@@ -56,6 +58,8 @@ Create an API which fetches the data from all the 3 APIs mentioned above, combin
 the response and sends a final response of the combined JSON
 
 Frontend Task
+
+
 
 By using above created apis, create the following table and charts on single page.
 Follow the given mockups and you can implement your own design to change the
